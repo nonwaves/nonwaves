@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nonwaves
 - 👀 I’m interested in backend development, microcontrollers and more!
 - 🌱 I’m currently learning Python, JavaScript, Node.js, and Arduino
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me Marquez.Gabriel.g@gmail.com
 
 <!---
